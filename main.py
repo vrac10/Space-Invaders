@@ -92,7 +92,7 @@ while run:
         if i.alien_bullet_shot == True:
             i.bullet.y += 10
 
-    if 
+
     alien_bullet(aliens)
 
     
