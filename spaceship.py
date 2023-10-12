@@ -39,6 +39,7 @@ class spaceship():
         if condition == True:
             pygame.draw.rect(surface , (255,0,0), self.bullet)
 
+    # why the fuck is this project so bad omg get good kid
 
     # def draw(self, surface):
     #     pygame.draw.rect(surface , (255,0,0), self.rect)
